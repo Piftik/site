@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: #ffffff;
+}
+body {
+  background: linear-gradient(360deg, #3594bf 0%, rgb(156, 201, 243));
+}
+.btn {
+  color: #000;
+}
+.inp {
+  color: #000;
+}
+.wrip {
+  display: flex;
+  flex-grow: 1;
+}
+.container {
+  background: linear-gradient(360deg, #3594bf 0%, rgb(156, 201, 243));
+}
+
+.container {
+  max-width: 100px;
+  padding: 50px;
+  max-height: 100%;
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 100px;
+}
+
+/* С другого сайта*/
+
+.container__2 {
+  background: linear-gradient(360deg, #3594bf 0%, rgb(156, 201, 243));
+}
+
+.container__2 {
+  max-width: 100px;
+  padding: 50px;
+  max-height: 100%;
+  text-align: center;
+}
+
+.header__2 {
+  margin-bottom: 100px;
+}
+
+/* На завтра */
+
+.container__3 {
+  background: linear-gradient(360deg, #3594bf 0%, rgb(156, 201, 243));
+}
+
+.container__3 {
+  max-width: 100px;
+  padding: 50px;
+  max-height: 100%;
+  text-align: center;
+}
+
+.header__3 {
+  margin-bottom: 100px;
+}
+
+.elastic li {
+  transition: all ease 500ms;
+}
+.elastic li.hide {
+  display: none;
+}
+
+mark{
+	background: #000;
+}
